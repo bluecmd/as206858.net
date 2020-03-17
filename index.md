@@ -8,4 +8,4 @@ Yes.
 
 ## Contact
 
-https://keybase.io/bluecmd
+[keybase.io/bluecmd](https://keybase.io/bluecmd)
